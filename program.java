@@ -69,3 +69,12 @@
 // }
 // }
 // } }
+
+// public class program { // могут спрсить на интервью.
+//         // место начала программы, метод main
+//         static public void main(String[] args){
+//         int a = 123;
+//         a = -- a - a --;
+//         System.out.println(a);
+//         }
+//     }
