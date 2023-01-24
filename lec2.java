@@ -3,7 +3,7 @@
 
 public class lec2 {
     public static void main(String[] args) {
-        // StringBuilder sb = new StringBuilder(); // Если компануем, собираем материал то стрингбилдер.
+        // StringBuilder sb = new StringBuilder(); // Если компануем, собираем, изменяем материал то стрингбилдер.
         // Разбираете готовый материал,используем стринг.
         // for (int i = 0; i < 1_000_000; i++) {
         //     sb.append("+");
