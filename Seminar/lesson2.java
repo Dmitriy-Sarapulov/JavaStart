@@ -1,4 +1,4 @@
-import java.io.FileWriter;
+// import java.io.FileWriter;
 import java.util.Scanner;
 
 
@@ -24,7 +24,7 @@ public class lesson2 {
         String name = iScanner.nextLine();
         System.out.println(isPalindrome(name));
         iScanner.close();
-        String s = "text";
+        // String s = "text";
         
         
     }
